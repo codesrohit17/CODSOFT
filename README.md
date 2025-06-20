@@ -1,4 +1,4 @@
 # CODSOFT
-Task for tech Internship (Codsoft)
-Auther - Rohit
+Task for tech Internship (Codsoft).
+Author - Rohit
 
